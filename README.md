@@ -1,29 +1,33 @@
-# homework-seven
+# final-project
 
 Homework Seven assignment for my N215 class
 
 # Purpose
 
-This homework assignment will:
+This final project will:
 
-- Teach you how to make your site responsive
-- Teach you how to deal with images next to text.
-- Use media queries
-- Use percentages
+* Be a single-page application
+* Must be in an MVC format
+* Look just like the travel-fly home work assignment and this prototype: https://xd.adobe.com/spec/7a379659-8751-4968-7a8f-0286dab79e46-0c06/Links to an external site.
+* The font's maybe wrong to look at the PDF's under files > travel-fly folder
+* Must include all the pages. 
+* Must use jQuery or pure JavaScript
+* Must navigate using the URL
 
 # Task
 
-For this homework assignment, you will be making the about page from the Travel-fly prototype Download Travel-fly prototypeand making it responsive.
+For this homework assignment, you will:
 
-- You must create a project named homework-five.
-- You must build off of the previous assignment.
-- You must fix any issues with the previous assignment, especially if it doesn't look like the prototype.
-- Your about page must look like the prototype
-- Your page must be responsive.
-- You can align the elements as you wish but they must look good and not touch the sides of the browser.
-
-* Upload your project to Github and add your Web4 link to the README file.
+* You must create a project named final-project
+* You must take your old travel-fly project and turn it into a single-page application.
+* It must look exactly like the travel-fly prototype
+* You can find the fonts and images under the Files > Travel-fly folder
+* You must use jQuery or JavaScript
+* Use only one page and load all the content onto that page dynamically. 
+* You must navigate using the routing that I showed you in class. This uses the URL for navigation.
+* Must use the MVC model we have discussed, and it must by type module
+* Upload your project to Github and Web4 and add your Web4 link to the README file in Github, and submit your Github link. 
 
 # Web4 Link
 
-https://in-info-web4.informatics.iupui.edu/~kaw17/homework-seven/
+https://in-info-web4.informatics.iupui.edu/~kaw17/final-project/
